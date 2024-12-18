@@ -1,0 +1,83 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-left: 50px;
+  margin-top: 90px;
+}
+h1{
+  margin-left: 30%;
+}
+
+.form-section {
+  text-align: center;
+  padding: 20px;
+  width: 25%;
+  background-color: #061e72;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+ input {
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 50%; 
+  border: none;
+  border-radius: 15px;
+}
+
+.list-section {
+  width: 60%;
+}
+
+
+table {
+  width: 800px;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #061e72;
+}
+
+thead th {
+  padding: 10px;
+  text-align: left;
+}
+
+
+
+tbody td {
+  padding: 10px;
+  text-align: left;
+}
+
+.supprimer {
+  background-color: #d01818;
+  color: black;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+}
+.Modifier {
+  background-color: #00b82b;
+  color: black;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+}
+.AfficherDetails {
+  background-color: #061e72;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nom": "khalil",
+    "prenom": "Hossam",
+    "age": 20,
+    "filiere": "Informatique"
+  },
+  {
+    "id": 2,
+    "nom": "Jalal",
+    "prenom": "Mahmoudi",
+    "age": 22,
+    "filiere": "Mathématiques"
+  },
+  {
+    "id": 3,
+    "nom": "Mame",
+    "prenom": "Oussama",
+    "age": 21,
+    "filiere": "Physique"
+  },
+  {
+    "id": 4,
+    "nom": "Yarane",
+    "prenom": "Omar",
+    "age": 23,
+    "filiere": "Biologie"
+  },
+  {
+    "id": 5,
+    "nom": "Touati",
+    "prenom": "Yassine",
+    "age": 24,
+    "filiere": "Chimie"
+  }
+]
